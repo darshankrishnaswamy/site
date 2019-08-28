@@ -1,0 +1,10 @@
+.nav{
+    width: 11%;
+    height:50px;
+    background-color: #222222;
+    color: #ffffff;
+    /*margin-left:-*/
+    margin-right:-4.0px;
+    -webkit-margin-collapse: collapse;
+    border-color: #000000;
+}
