@@ -8,3 +8,7 @@
     -webkit-margin-collapse: collapse;
     border-color: #000000;
 }
+
+body{
+    background-color: lightskyblue;
+}
