@@ -1,0 +1,8 @@
+.bodytext{
+    font-family: "georgia", "times", serif;
+}
+
+@font-face {
+    font-family: "Computer Modern";
+    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
+}
