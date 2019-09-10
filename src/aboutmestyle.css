@@ -15,7 +15,7 @@
     padding: 5px;
     border-radius: 8px;
     overflow: auto;
-    background-color: burlywood;
+    background-image: linear-gradient(#ffecd2, #fcb69f);
 }
 
 .centerinparent{
@@ -32,7 +32,7 @@
     padding: 5px;
     border-radius: 8px;
     overflow: auto;
-    background-color: burlywood;
+
 }
 
 .floatleft{
