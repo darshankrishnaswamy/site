@@ -1,8 +1,40 @@
 .bodytext{
     font-family: "georgia", "times", serif;
+    font-size: 1.5em;
+
 }
 
 @font-face {
     font-family: "Computer Modern";
     src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
+}
+
+.id1{
+    margin-right: 20px;
+    margin-top: 30px;
+    padding: 5px;
+    border-radius: 8px;
+    overflow: auto;
+    background-color: burlywood;
+}
+
+.centerinparent{
+    text-align: center;
+}
+
+.floatright{
+    float: right;
+}
+
+#id2{
+    margin-right: 20px;
+    margin-top: 30px;
+    padding: 5px;
+    border-radius: 8px;
+    overflow: auto;
+    background-color: burlywood;
+}
+
+.floatleft{
+    float: left;
 }

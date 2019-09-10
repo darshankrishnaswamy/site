@@ -9,8 +9,14 @@
     border-color: #000000;
 }
 
+
+.centerh{
+    text-align: center;
+}
+
 body{
     background-color: lightskyblue;
+    font-family: "Georgia", "Times", serif;
 }
 
 .nav.hover{
@@ -61,4 +67,8 @@ body{
     background-color: inherit;
     font-family: inherit;
     margin: 0;
+}
+
+.centerinparent{
+    text-align: center;
 }

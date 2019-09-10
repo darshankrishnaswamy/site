@@ -1,6 +1,8 @@
 
 body{
-    background-image: url("backgroundmain.jpg");
+    background-image: url("../Images/backgroundmain.jpg");
+    background-color: #333333;
+
 }
 
 h1{
@@ -34,3 +36,6 @@ p{
     transform: translate(-50%, -50%);
 }
 
+.centerinparent{
+    text-align: center;
+}
