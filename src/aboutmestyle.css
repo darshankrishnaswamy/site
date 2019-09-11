@@ -30,11 +30,15 @@
     margin-right: 20px;
     margin-top: 30px;
     padding: 5px;
-    border-radius: 8px;
+    border-radius: 18px;
     overflow: auto;
 
 }
 
 .floatleft{
     float: left;
+}
+
+img{
+    border-radius: 18px;
 }
