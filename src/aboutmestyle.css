@@ -1,6 +1,6 @@
 .bodytext{
     font-family: "georgia", "times", serif;
-    font-size: 1.5em;
+    font-size: 1.8em;
 
 }
 
@@ -13,9 +13,9 @@
     margin-right: 20px;
     margin-top: 30px;
     padding: 5px;
-    border-radius: 8px;
+    border-radius: 18px;
     overflow: auto;
-    background-image: linear-gradient(#ffecd2, #fcb69f);
+    background-image: radial-gradient(#ffecd2, #fcb69f);
 }
 
 .centerinparent{
