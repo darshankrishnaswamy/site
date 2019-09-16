@@ -1,8 +1,7 @@
 
 body{
-    background-image: url("../Images/backgroundmain.jpg");
+    background-image: url("../Images/backgroundmain.jpg"); /* Image source: https://wallpaperplay.com/walls/full/7/9/8/261211.jpg */
     background-color: #333333;
-
 }
 
 h1{
@@ -15,7 +14,7 @@ h1{
 }
 
 h2{
-    color:#000000;
+    color: #000000;
     font-size: 40px;
 }
 
