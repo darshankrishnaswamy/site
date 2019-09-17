@@ -14,14 +14,9 @@
     text-align: center;
 }
 
-body{
-    background-color: lightskyblue;
-    font-family: "Georgia", "Times", serif;
-}
-
 .navbar {
     overflow: hidden;
-    background-color: #333;
+    /*background-color: #333*/
 }
 
 
