@@ -1,10 +1,28 @@
 body{
-    background-image: radial-gradient(lightskyblue, steelblue);
+    background-color: #48b0df;
     background-repeat: no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
     font-family: "Georgia", "Times", serif;
+}
 
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.divtext{
+    margin-right: 20px;
+    margin-top: 30px;
+    padding: 5px;
+    border-radius: 18px;
+    overflow: auto;
+    background-image: radial-gradient(#ffffe3, #edc9af);
+    border-color: #000000;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.maintext{
+    font-size: 40px;
 }
