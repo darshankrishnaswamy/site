@@ -1,3 +1,4 @@
 My Personal Website
 
-Link: [users.wpi.edu/~dkrishnaswamy](users.wpi.edu/~dkrishnaswamy)
+<a href="http://www.users.wpi.edu/~dkrishnaswamy" target="_blank">Site Link</a>
+
