@@ -1,3 +1,4 @@
+/* Created with help from w3 schools https://www.w3schools.com/css/default.asp */
 .nav{
     width: 11%;
     height:50px;
@@ -5,11 +6,18 @@
     color: #ffffff;
     /*margin-left:-*/
     margin-right:-4.0px;
-    -webkit-margin-collapse: collapse;
     border-color: #000000;
 }
 
+@media only screen and (min-height: 800px) {
+    .index{
+        color: white;
+    }
+}
 
+body{
+    background-repeat: no-repeat;
+}
 
 
 .navbar {
