@@ -8,7 +8,7 @@
     margin-right:-4.0px;
     border-color: #000000;
 }
-
+/* Responsive design created with help from w3 schools https://www.w3schools.com/css/css_rwd_mediaqueries.asp */
 @media only screen and (min-height: 800px) {
     .index{
         color: white;
