@@ -1,12 +1,13 @@
 /* Created with help from w3 schools https://www.w3schools.com/css/default.asp */
 .bodytext{
     font-family: "georgia", "times", serif;
-    font-size: 1.8em;
+    font-size: 1.4em;
 
 }
 
 .id1{
-    margin-right: 20px;
+    margin-right: 30px;
+    margin-left: 30px;
     margin-top: 30px;
     padding: 5px;
     border-radius: 18px;
